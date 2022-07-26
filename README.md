@@ -159,7 +159,7 @@ In the architecture, you can configure your architecture with these conditions,
 
 - Git & Github for Version Control System
 
-### At the end of the project, students will be able to;
+### At the end of the project, we will be able to;
 
 - demonstrate how to configure Jenkins pipeline to create infrstructure with terraform.
 
